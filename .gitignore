@@ -17,5 +17,5 @@ visualizer/
 # Other people's repositories, cloned read-only (see README)
 external/
 
-# Page images are kept locally only (6.6 GB; re-download with: python code/02_download_manuscripts.py)
-data/manuscripts/
+# Page images live in Google Drive; data/manuscripts is a link to that folder (or re-download with step 2)
+data/manuscripts

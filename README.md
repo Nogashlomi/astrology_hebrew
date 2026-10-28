@@ -52,8 +52,10 @@ hebrew_astrology_project/
 └── requirements.txt
 ```
 
-The page images in `data/manuscripts/` (about 6.6 GB) are kept locally and are not in git; step 2 downloads them
-again. Everything else in `data/`, including the illustration crops, is in the repository.
+The page images (about 6.6 GB) are not in git. They are kept in Google Drive (My Drive › hebrew_astrology_project ›
+manuscripts), and `data/manuscripts` is a link to that folder as Google Drive for desktop shows it, so pages are fetched
+from Drive when opened. Without that link, step 2 downloads them again from Ktiv. Everything else in `data/`, including
+the illustration crops, is in the repository.
 
 The NLI **MMS ID** (18 digits) links everything: catalogue rows, manuscript folder names, `metadata.json`, page index
 and illustration IDs.

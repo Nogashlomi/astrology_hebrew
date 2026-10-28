@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Built visualizer (regenerate with: python code/06_build_visualizer.py)
+visualizer/
+
+# Other people's repositories, cloned read-only (see README)
+external/

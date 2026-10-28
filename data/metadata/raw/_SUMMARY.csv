@@ -1,0 +1,8 @@
+﻿cql,downloaded,manuscripts,reported_total,term
+"alma.all_for_ui all ""אסטרולוגיה"" and alma.type_of_record=""t""",2156,2156,2156,אסטרולוגיה (any field)
+"alma.all_for_ui all ""Astrology"" and alma.type_of_record=""t""",1733,1733,1733,Astrology (any field)
+"alma.subjects all ""Astrology"" and alma.type_of_record=""t""",1598,1598,1598,Astrology (subject heading)
+,2169,0,2169,filter: manuscript (Leader/06)
+,2082,87,2169,"filter: tagged astrology (subject heading, Ktiv subject note or title)"
+,1770,312,2082,filter: Hebrew script
+,550,1220,1770,filter: dated within 1250-1450
